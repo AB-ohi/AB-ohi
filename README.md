@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi There 👋What's Up?</h1>
 
 ###
 <p align="left">💻“I write code that sometimes works on the first try… sometimes."<br><br>😅 “Not a magician, but I can make bugs disappear (after 3 hours).”<br><br>🐛 “Full-time bug creator, part-time problem solver.”<br><br>🧠 “My brain runs on JavaScript and coffee.”</p>
@@ -60,4 +60,3 @@
 
 
 
-###
