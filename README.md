@@ -17,10 +17,10 @@ const simonLecoq = {
     pronouns: "He" | "Him",
     location: "Dhaka, Bangladesh 🇧🇩",
     currentFocus: "Building amazing web experiences",
-    languages: ["JavaScript", "TypeScript", "Python", "C++"],
+    languages: ["JavaScript", "Python", "C"],
     askMeAbout: ["web dev", "tech", "music", "gaming"],
     technologies: {
-        frontEnd: ["React", "Next.js", "Vue", "HTML", "CSS"],
+        frontEnd: ["React", "Next.js", "HTML", "CSS"],
         backEnd: ["Node.js", "Express", "MongoDB"],
         design: ["Figma", "Canva", "Bootstrap", "Tailwind"],
         tools: ["Git", "GitHub", "VS Code", "Postman"]
