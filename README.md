@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There%20👋%20What's%20Up?&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BDEF7&center=true&vCenter=true&random=false&width=835&lines=Full-Stack+Developer+%F0%9F%9A%80;Bug+Creator+%26+Problem+Solver+%F0%9F%90%9B;Powered+by+Coffee+%26+JavaScript+%E2%98%95;Code+Wizard+in+Training+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Building+Cool+Stuff+24/7+🔥;Turning+Ideas+Into+Reality+💡" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -64,16 +60,16 @@ const AB_OHI = {
 <div align="center">
   
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,bootstrap,tailwind,sass" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgresql" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,yarn,webpack" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" alt="Tools" />
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,java,php" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=javascript,python,c" alt="Languages" />
 
 </div>
 
@@ -129,11 +125,7 @@ const AB_OHI = {
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50f1782-0c00-43e5-b465-047aa89f8c7f.gif" width="400">
 </div>
 
-## 🎵 Currently Vibing To
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=3bdef7&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
 
 <br/>
 
