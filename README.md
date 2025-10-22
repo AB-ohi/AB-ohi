@@ -79,6 +79,16 @@ const AB_OHI = {
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+## 🔥 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -129,15 +139,7 @@ const AB_OHI = {
 
 <br/>
 
-## 🔥 My Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <br/>
 
@@ -162,7 +164,7 @@ const AB_OHI = {
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+  <img height="177" src="https://cdn.dribbble.com/userupload/22571673/file/original-8e02313ba9d03157810e1af7e8c44eda.gif"  />
 </div>
 
 ## 💡 Random Dev Quote
