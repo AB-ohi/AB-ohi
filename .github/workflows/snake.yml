@@ -1,13 +1,20 @@
-name: Generate Snake
+name: Generate Snake 🐍
 
+# Controls when the workflow will run
 on:
+  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually
   workflow_dispatch:
+  
+  # Run on every push to main
   push:
     branches:
     - main
 
+# A workflow run is made up of one or more jobs
 jobs:
   generate:
     permissions:
@@ -16,15 +23,19 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      # Generate snake with multiple color schemes
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AB-ohi
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push github-contribution-grid-snake.svg to the output branch
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      # Push the generated files to output branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
