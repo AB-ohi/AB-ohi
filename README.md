@@ -82,11 +82,7 @@ const AB_OHI = {
 ## 🔥 My Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/AB-ohi/AB-ohi/output/ocean.svg" width="100%"/>
 </div>
 
 ## 📊 GitHub Statistics
